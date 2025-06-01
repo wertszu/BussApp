@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107391968219",
+    "project_id": "bus-app-decfc",
+    "storage_bucket": "bus-app-decfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107391968219:android:ea31d07a1bb1cb891abdfe",
+        "android_client_info": {
+          "package_name": "com.example.bus_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD648q5xqG3bpuJ8ToOGYzVW8OUFkK5Oss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
